@@ -38,7 +38,7 @@
 ## 📈 Current Projects
 - 🎮 **Ultimate PC Simulator** — A 2D PC building simulator with realistic component logic.  
 - 💾 **Build a PC (Roblox)** — A fun, chaotic, and strategic PC-building experience.  
-- 🤖 **L-Shop Bot** — A custom Discord bot for managing digital shops and interactions.
+- 🤖 **L-Shop Bot** — A Discord bot inspired by the in-game store from *Ultimate PC Simulator*, where users can browse and purchase components, assemble complete PCs through commands, and generate preview images of their builds.
 
 ---
 
