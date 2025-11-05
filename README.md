@@ -9,7 +9,7 @@
 - 💡 I’m deeply interested in **PC hardware**, **Unity (C#)** programming, and **Discord bot development**.  
 - 🎨 Currently improving my **UI/UX design skills** with **Adobe XD** and **Figma**.  
 - 🚀 Always open to collaborate on **game development** and **creative software projects**.  
-- 🧩 I enjoy designing and simulating PC components — my ongoing project is **Ultimate PC Simulator**, a 2D Unity game.  
+- 🧩 I enjoy designing and simulating PC components. My ongoing project is **Ultimate PC Simulator**, a 2D Unity game.  
 
 ---
 
@@ -17,16 +17,15 @@
 
 **Languages & Engines**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 **Design Tools**  
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 **Version Control & Workflow**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -44,7 +43,7 @@
 ---
 
 ## 🌐 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
+[![Discord](https://img.shields.io/badge/Discord-liotg-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/liotg)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LioTG)
 
 ---
