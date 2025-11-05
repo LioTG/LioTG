@@ -48,7 +48,7 @@
 
 ---
 
-⭐ _“Turning creative ideas into digital experiences.”_
+_“Turning creative ideas into digital experiences.”_
 
 <!---
 LioTG/LioTG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
