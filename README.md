@@ -3,13 +3,13 @@
   <p><em>Turning creative ideas into digital experiences</em></p>
   
   <a href="https://liotg.github.io/portfolio">
-    <img src="https://img.shields.io/badge/✨_Visita_mi_Portafolio-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/✨_Visit_My_Portfolio-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000" alt="Portfolio" />
   </a>
 </div>
 
 <br>
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About Me
 
 ```javascript
 class Lionel extends SoftwareEngineer {
@@ -17,12 +17,12 @@ class Lionel extends SoftwareEngineer {
     super();
     this.name = "Lionel Chavez";
     this.role = "Full Stack & Game Developer";
-    this.focus = ["Arquitectura DDD", "Desarrollo Open Source", "Game Design"];
+    this.focus = ["DDD Architecture", "Open Source Development", "Game Design"];
   }
 
   getCurrentStack() {
     return {
-      frontend: ["Angular", "Vue", "TypeScript"],
+      frontend: ["Angular", "Vue", "TypeScript", "JavaScript"],
       backend: ["Java", "C#"],
       gamedev: ["Unity (C#)"]
     };
@@ -30,9 +30,9 @@ class Lionel extends SoftwareEngineer {
 
   getTopProjects() {
     return [
-      "🎮 Ultimate PC Simulator (Simulador 2D en Unity)",
-      "🌐 Entreprenly (Plataforma Web con DDD)",
-      "🤖 L-Shop Bot (Economía virtual en Discord.js)"
+      "🎮 Ultimate PC Simulator (2D Simulator in Unity)",
+      "🌐 Entreprenly (Smart Retail Platform using DDD)",
+      "🤖 L-Shop Bot (Virtual Economy in Discord.js)"
     ];
   }
 }
@@ -44,19 +44,19 @@ class Lionel extends SoftwareEngineer {
   </a>
 </div>
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <h3>Lenguajes, Frameworks y Librerías</h3>
+  <h3>Languages, Frameworks & Libraries</h3>
   <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,ts,java,spring,html,css,react,vue,angular,tailwind,threejs,vite,discordjs" />
   
-  <h3>Game Dev, Bases de Datos, Entornos y Herramientas</h3>
+  <h3>Game Dev, Databases, Environments & Tools</h3>
   <img src="https://skillicons.dev/icons?i=unity,sqlite,mysql,mongodb,git,github,xd,figma,notion,gcp,idea,rider,webstorm,vscode" />
 </div>
 
 <br>
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LioTG&show_icons=true&bg_color=0a0a0f&title_color=8b5cf6&text_color=a1a1aa&icon_color=3b82f6&border_color=1e1e24"/>
@@ -69,7 +69,7 @@ class Lionel extends SoftwareEngineer {
 
 <br>
 
-## 📫 Contacto
+## 📫 Contact
 
 <div align="center">
   <a href="mailto:lionelchavezcarrasco@gmail.com">
