@@ -1,56 +1,91 @@
-# 👋 Hi there! I’m **Lio**
+<div align="center">
+  <h1>Hi there! I'm Lio 👋</h1>
+  <p><em>Turning creative ideas into digital experiences</em></p>
+  
+  <a href="https://liotg.github.io/portfolio">
+    <img src="https://img.shields.io/badge/✨_Visita_mi_Portafolio-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000" alt="Portfolio" />
+  </a>
+</div>
 
-🎮 **Software Engineering student** at the Peruvian University of Applied Sciences (UPC).  
-💻 Passionate about **hardware, software, and game development**, always blending creativity with technology.
+<br>
 
----
+## 👨‍💻 Sobre mí
 
-## 🧠 About Me
-- 💡 I’m deeply interested in **PC hardware**, **Unity (C#)** programming, and **Discord bot development**.  
-- 🎨 Currently improving my **UI/UX design skills** with **Adobe XD** and **Figma**.  
-- 🚀 Always open to collaborate on **game development** and **creative software projects**.  
-- 🧩 I enjoy designing and simulating PC components. My ongoing project is **Ultimate PC Simulator**, a 2D Unity game.  
+```javascript
+class Lionel extends SoftwareEngineer {
+  constructor() {
+    super();
+    this.name = "Lionel Chavez";
+    this.role = "Full Stack & Game Developer";
+    this.focus = ["Arquitectura DDD", "Desarrollo Open Source", "Game Design"];
+  }
 
----
+  getCurrentStack() {
+    return {
+      frontend: ["Angular", "Vue", "TypeScript"],
+      backend: ["Java", "C#"],
+      gamedev: ["Unity (C#)"]
+    };
+  }
 
-## 🛠️ Tech Stack
+  getTopProjects() {
+    return [
+      "🎮 Ultimate PC Simulator (Simulador 2D en Unity)",
+      "🌐 Entreprenly (Plataforma Web con DDD)",
+      "🤖 L-Shop Bot (Economía virtual en Discord.js)"
+    ];
+  }
+}
+```
 
-**Languages & Engines**  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
+  <a href="https://github.com/LioTG?tab=followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/LioTG?style=social" />
+  </a>
+</div>
 
-**Design Tools**  
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+## 🛠️ Tecnologías y Herramientas
 
-**Version Control & Workflow**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=agile&logoColor=white)
+<div align="center">
+  <h3>Lenguajes, Frameworks y Librerías</h3>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,ts,java,spring,html,css,react,vue,angular,tailwind,threejs,vite,discordjs" />
+  
+  <h3>Game Dev, Bases de Datos, Entornos y Herramientas</h3>
+  <img src="https://skillicons.dev/icons?i=unity,sqlite,mysql,mongodb,git,github,xd,figma,notion,gcp,idea,rider,webstorm,vscode" />
+</div>
 
----
+<br>
 
-## 📈 Current Projects
-- 🎮 **Ultimate PC Simulator** — A 2D PC building simulator with realistic component logic.  
-- 💾 **Build a PC (Roblox)** — A fun, chaotic, and strategic PC-building experience.  
-- 🤖 **L-Shop Bot** — A Discord bot inspired by the in-game store from *Ultimate PC Simulator*, where users can browse and purchase components, assemble complete PCs through commands, and generate preview images of their builds.
+## 📊 Estadísticas de GitHub
 
----
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LioTG&show_icons=true&bg_color=0a0a0f&title_color=8b5cf6&text_color=a1a1aa&icon_color=3b82f6&border_color=1e1e24"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LioTG&layout=compact&bg_color=0a0a0f&title_color=8b5cf6&text_color=a1a1aa&border_color=1e1e24"/>
+</div>
 
-## 🌐 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-liotg-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/liotg)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LioTG)
+<div align="center">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LioTG&theme=tokyonight&background=0a0a0f&border=1e1e24"/> 
+</div>
 
----
+<br>
 
-_“Turning creative ideas into digital experiences.”_
+## 📫 Contacto
 
-<!---
-LioTG/LioTG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="mailto:lionelchavezcarrasco@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/lionel-chavez-carrasco-5883b8250" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.com/users/liotg" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+  </a>
+</div>
+
+<br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2" />
+
+<p align="center">
+  README by <strong>LioTG</strong>
+</p>
