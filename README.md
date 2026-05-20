@@ -59,8 +59,8 @@ class Lionel extends SoftwareEngineer {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LioTG&show_icons=true&bg_color=0a0a0f&title_color=8b5cf6&text_color=a1a1aa&icon_color=3b82f6&border_color=1e1e24"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LioTG&layout=compact&bg_color=0a0a0f&title_color=8b5cf6&text_color=a1a1aa&border_color=1e1e24"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LioTG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&custom_title=GitHub%20Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LioTG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f"/>
 </div>
 
 <div align="center">  
